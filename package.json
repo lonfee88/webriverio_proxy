@@ -1,0 +1,27 @@
+{
+    "name": "webdriverio_proxy",
+    "version": "1.0.0",
+    "description": "webdriverio with proxies(hosts).",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/lonfee88/webriverio_proxy.git"
+    },
+    "keywords": [
+        "webdriverio",
+        "proxy"
+    ],
+    "author": "lonfee88",
+    "license": "ISC",
+    "dependencies": {
+        "webdriverio": "^2.4.5",
+        "browsermob-proxy": "^1.0.8"
+    },
+    "bugs": {
+        "url": "https://github.com/lonfee88/webriverio_proxy/issues"
+    },
+    "homepage": "https://github.com/lonfee88/webriverio_proxy"
+}
